@@ -1,9 +1,13 @@
 ## Survey Rules
 
 **40%** the same number – Moon
-**60%** the same number – Role 
+
+**60%** the same number – Role
+
 **80%** the same number – Role + Sun
+
 **100%** the same number – Role + Comet 
+
 **40%** of `A` and **40%** of `B` – Question 6 with `A` and `B` only
 
 ## Survey Questions
